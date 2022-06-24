@@ -73,3 +73,16 @@ body{
     display: block;
     margin: 0 auto;
 }
+
+/* mobile */
+
+@media screen and (max-width: 900px){
+    :root{
+        --height-nav: 90px;
+    }
+    .nav__container{
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    
+}
