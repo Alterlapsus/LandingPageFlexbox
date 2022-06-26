@@ -1,4 +1,3 @@
-# landing-page
 # Landing page utlizando flex box
 
 <h1>Desktop</h1>
