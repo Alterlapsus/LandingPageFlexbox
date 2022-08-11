@@ -1,4 +1,5 @@
-# Landing page utlizando flex box
+# LandingPage 
+- Se realiza proyecto para practicar los conocimientos adquiridos de flex-box
 
 - Desktop
 
